@@ -65,6 +65,8 @@ c_sec1,a_sec1 : The most significant second digit of the temp clock and alarm.
 
 c_sec0,a_sec0 : The least significant minute digit of the temp clock and alarm.
 
+View = https://github.com/KhushiBaurasi/Clock-with-Alarm/blob/main/Alarm%20Clock%20Presentation(1).pdf
+
 
 
 
